@@ -1,0 +1,10 @@
+{
+  "name": "energi-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "ogwurujohnson <ogwurujohnson@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.0.35"
+  }
+}
